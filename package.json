@@ -1,0 +1,17 @@
+{
+  "name": "am1na6oop",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "It is the best example of OOP. This is a cli-based personality test using TypeScript, NodeJs and Inquirer.",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.7"
+  }
+}
